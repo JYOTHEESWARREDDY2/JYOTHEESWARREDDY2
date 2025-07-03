@@ -1,4 +1,5 @@
-<h2>Hello there! My name is Vusu Jyotheeswar Reddy.</h2>
+# 💫 About Me:
+Hello there! My name is Vusu Jyotheeswar Reddy
 
 
 <P>I'm a Java and backend developer with a passion for building scalable and secure applications. I have strong knowledge of Spring Boot and Spring Security, and experience with RESTful APIs, database integration, and basic frontend technologies. I enjoy learning new tools and continuously improving my development skills.</P>
